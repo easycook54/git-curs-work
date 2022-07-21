@@ -1,0 +1,10 @@
+#системные папки
+/hooks
+/info
+/objects
+/refs
+
+#системные файлы
+config
+description
+HEAD
