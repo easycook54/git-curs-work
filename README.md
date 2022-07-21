@@ -1,4 +1,4 @@
-#= Барсов Андрей Владимирович
+# Барсов Андрей Владимирович
 
 ### Немного информации обо мне:
 
@@ -12,4 +12,4 @@
 * Умение анализировать ситуацию и строить прогнозы
 * Наличие прав категории В
 
-![I am](C:\Users\Andrey\Documents\JavaScript_Education\Project\HomeTask_2\git-curs-work\img)
+![I am](https://github.com/easycook54/git-curs-work/blob/master/img/IMG_0274.JPG)
